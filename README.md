@@ -50,6 +50,23 @@
  la red *TOR* y que usos se le puede dar.
  
  
+ ##  Curso de Triage Informático
+ 
+ **-Introducción:**  
+ En este tema se tratan asuntos tales como los tipos de *malware* existentes y sus características, se habla de los procesos y de como analizarlos y las diferencias entre un *Hacker* y un *Cracker*.  
+ 
+ **-Búsqueda de malware:**  
+ En este módulo se tratan temas como los mitos que giran alrededor de el hacking y el malware, de los metadatos y de como analizarlos y del *análisis heurístico*.  
+ 
+ **-Análisis de archivos ejecutables:**  
+ El tema trata de entender las rutas de instalación y ejecución, para así sacar información relevante para estudiar el malware y tambien del analisis de recursos para poder dictaminar si nuestro dispositivo está afectado por algún tipo de malware.  
+ 
+ **-Emails y phishing:**  
+ En este apartado se estudian diferentes ejemplos de mails sospechosos y archivos infectados y de como lidiar con ellos a parte de una pequeña práctica sobre creación de máquinas virtuales con *VMware*
+ 
+ 
+ 
+ 
  
  
  
